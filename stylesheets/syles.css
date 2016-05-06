@@ -1,0 +1,27 @@
+.fish-fact {
+  font-style: italic;
+}
+
+ul.hidden {
+  list-style:none;
+}
+
+img {
+  width: 300px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.border-info {
+  border: 1px solid #ddd;
+  padding: 10px 10px 10px 10px;
+}
+
+h3.border-name {
+  text-shadow: 1px 1px #ddd;
+  padding: 10px 10px 10px 10px;
+}
+
+.border-content {
+  border: 1px solid #ddd;
+  padding: 10px 10px 10px 10px;
