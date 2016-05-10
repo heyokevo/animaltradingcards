@@ -3,7 +3,7 @@
 }
 
 ul.hidden {
-  list-style:none;
+  list-style: none;
   padding-left: 0px;
 }
 
@@ -15,18 +15,18 @@ img {
 
 .border-info {
   border: 1px solid #ddd;
-  padding: 10px 10px 10px 10px;
+  padding: 10;
 }
 
 h3.border-name {
   text-shadow: 1px 1px #ddd;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
 }
 
 .border-content {
-  width: 300px;
+  width: 350px;
   border: 1px solid #ddd;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
 }
   
 .content-bold {
