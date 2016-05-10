@@ -24,6 +24,7 @@ h3.border-name {
 }
 
 .border-content {
+  width: 300px;
   border: 1px solid #ddd;
   padding: 10px 10px 10px 10px;
 }
