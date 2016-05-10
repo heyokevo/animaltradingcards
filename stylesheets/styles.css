@@ -4,6 +4,7 @@
 
 ul.hidden {
   list-style:none;
+  padding-left: 0px;
 }
 
 img {
@@ -25,3 +26,12 @@ h3.border-name {
 .border-content {
   border: 1px solid #ddd;
   padding: 10px 10px 10px 10px;
+}
+  
+.content-bold {
+  font-weight: bold;
+}
+
+.content-italic {
+  font-style: italic;
+}
